@@ -9,22 +9,22 @@ import './App.css'
       <nav className="nav">
      <ul>
        <li><a className="active" href="#">Home</a></li>
-       <li><a href="#">features</a>
+       <li><a href="#">Fruits</a>
          <ul>
-            <li><a href="#">javascript</a></li>
-            <li><a href="#">mongodb</a></li>
-            <li><a href="#">nodejs</a></li>
+            <li><a href="#">mangos</a></li>
+            <li><a href="#">apple</a></li>
+            <li><a href="#">banana</a></li>
          </ul>
        </li>
-      <li><a href="#">web Design</a>
+      <li><a href="#">vegetables</a>
        <ul>
-            <li><a href="#">front end</a></li>
-            <li><a href="#">back end</a></li>
-            <li><a href="#">full stack</a>
+            <li><a href="#">tomato</a></li>
+            <li><a href="#">patato</a></li>
+            <li><a href="#">Onion</a>
             <ul>
-            <li><a href="#">links</a></li>
-            <li><a href="#">works</a></li>
-            <li><a href="#">status</a></li>
+            <li><a href="#">cabbage</a></li>
+            <li><a href="#">broccoli</a></li>
+            <li><a href="#">carrot</a></li>
          </ul>
             
             </li>
@@ -32,6 +32,7 @@ import './App.css'
       </li>
       <li><a href="#">Contact</a></li>
       <li><a href="#">Feedback</a></li>
+      <li><a href="#">logout</a></li>
      </ul>
       </nav>
       <section>
